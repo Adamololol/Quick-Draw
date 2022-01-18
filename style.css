@@ -1,0 +1,52 @@
+body{
+background-color: yellowgreen;
+}
+#myModal{
+    background-color: white;
+    height: 100px;
+}
+#hi{
+    background-color: aqua;
+    height: 30px;
+    font-size: 30px;
+}
+#btnboi{
+font-family: "Oswald", sans-serif;
+background-color: cornsilk;
+color: rgb(38, 0, 255);
+margin-top: -39px;
+margin-left: 1000px;
+width: 80px;
+height: 40px;
+}
+#show_sketch{
+    float: right;
+
+}
+#canvas{
+    border:5px solid rgb(18, 14, 218);
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 900px;
+    animation-iteration-count: infinite;
+}
+.span{
+    background-color: cornsilk;
+}
+@keyframes example {
+    from{box-shadow: 1px 1px 38px grey;}
+    to{box-shadow: 1px 1px 38px white;}
+}
+
+
+
+
+
+p
+
+{
+    padding-top: 10px;
+    font-size: 25px;
+
+}
